@@ -1,7 +1,3 @@
-
-👋 Hi, I’m Binod Acharya, a Junior Full Stack Java Developer based in Columbus, Ohio 🏙️🌳,
-passionate about coding and exploring new technologies! 🚀
-
 👀 I’m interested in all things tech and coding, from crafting elegant web applications to diving into the 
 intricacies of Java and JavaScript, and staying up-to-date with industry trends.
 
